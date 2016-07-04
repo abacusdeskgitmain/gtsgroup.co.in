@@ -1,0 +1,4 @@
+[09-Nov-2011 04:02:30] PHP Warning:  mail() expects parameter 5 to be string, array given in /home/gtsgroup/public_html/enquiry.php on line 59
+[09-Nov-2011 04:07:49] PHP Parse error:  syntax error, unexpected T_ELSE in /home/gtsgroup/public_html/enquiry.php on line 68
+[09-Nov-2011 04:09:05] PHP Parse error:  syntax error, unexpected T_ELSE in /home/gtsgroup/public_html/enquiry.php on line 68
+[09-Nov-2011 04:09:31] PHP Parse error:  syntax error, unexpected T_ELSE in /home/gtsgroup/public_html/enquiry.php on line 68
